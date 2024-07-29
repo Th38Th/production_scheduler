@@ -1,0 +1,10 @@
+name,class,time,workload,arrival
+J50001,Lathe,25,50,0
+J50002,Mill,25,15,0
+J50003,Drill,50,25,0
+J03233,Drill,41,30,0
+J19202,Drill,62,34,0
+J13502,Lathe,20,46,0
+J27402,Mill,18,43,0
+J14662,Drill,62,67,0
+J23442,Mill,23,78,0
